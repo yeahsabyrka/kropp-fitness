@@ -4,6 +4,11 @@
   margin-inline: auto;
 }
 
+.container-wide {
+  max-width: 1920px;
+  margin-inline: auto;
+}
+
 .title-medium {
   font-size: clamp(20px, 2.08vw, 40px);
   line-height: 1.3;
